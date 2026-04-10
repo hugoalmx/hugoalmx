@@ -41,3 +41,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 ---
 
 > "Transformando lógica em arte" 💻
+
+## 🐍 Jogo da Cobrinha
+
+![Snake animation](https://github.com/hugoalmx/hugoalmx/blob/output/github-contribution-grid-snake.svg)
