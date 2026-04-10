@@ -1,15 +1,14 @@
-# Olá, eu sou o Hugo Almeida (Huguin) 👋
+# Olá, eu sou o Hugo Almeida  👋
 
-### 🎓 Estudante de Ciência da Computação | Fullstack Developer | Music Producer
+### 🎓 Estudante de Ciência da Computação | Fullstack Developer |
 
-Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atualmente, estou no 7º período de Ciência da Computação, focando em arquitetura de software e soluções educacionais.
+Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atualmente, estou no 8º período de Ciência da Computação, focando em arquitetura de software e soluções educacionais.
 
 ---
 
 ### 🚀 No que estou trabalhando agora?
 
 * **NordesteEduca**: Desenvolvimento do meu TCC. Um ecossistema educacional construído com **Flutter & Dart**, integrando IA para auxiliar estudantes da região.
-* **Treva Lab Records**: Gestão técnica e produção musical para minha própria gravadora (Trap/Rap).
 * **Portfólio Pessoal**: Evoluindo meu hub de projetos utilizando **Angular & Bootstrap**.
 
 ---
@@ -21,7 +20,7 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 | **Frontend** | Angular, React, Bootstrap, HTML5/CSS3 |
 | **Mobile** | Flutter, Dart |
 | **Backend** | Python, SQL |
-| **Design/Prod** | Figma, FL Studio (Music Production) |
+| **Design/Prod** | Figma |
 
 ---
 
@@ -38,4 +37,4 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 
 ---
 
-> "Transformando lógica em arte, seja no VS Code ou na DAW." 🎧💻
+> "Transformando lógica em arte" 💻
