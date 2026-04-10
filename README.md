@@ -24,6 +24,15 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 | **DevOps & Ferramentas** | Docker / Docker Swarm, Git & GitHub, Gitlab |
 ---
 
+## 📂 Projetos
+
+| Projeto | Descrição | Tecnologias | Deploy |
+|---|---|---|---|
+| [🎵 TREVA LAB RECORDS](https://github.com/hugoalmx/CHECKLISThtmlcss) | Site institucional de uma gravadora independente de Trap e Rap, com player de áudio, vídeo embed e formulário de contato com barra de progresso dinâmica. | HTML5, CSS3, JavaScript | — |
+| [🔍 Auditoria Front-End](https://github.com/hugoalmx/auditoriarefatoracaocodigofrontend) | Atividades práticas de auditoria, refatoração e acessibilidade de código Front-End, cobrindo HTML semântico, checklist WCAG e boas práticas de CSS3. | HTML5, CSS3 | — |
+| [📖 Pokédex Desafio](https://github.com/hugoalmx/pokedexdesafio) | Pokédex full stack desenvolvida como desafio técnico, integrando front-end em Next.js com API em NestJS, com deploy na Vercel. | Next.js, NestJS, TypeScript | [🌐 Ver online](https://pokedexdesafio-indol.vercel.app) |
+| [📧 EmailReader AI](https://github.com/hugoalmx/emailreaderai) | Aplicação inteligente para leitura, classificação e análise de e-mails com IA, suportando arquivos `.txt` e `.pdf`, com geração automática de respostas. | Python, Django, NLTK | [🌐 Ver online](https://emalreaderai.onrender.com/) |
+
 ### 📊 Estatísticas e Contatos
 
 <p align="left">
