@@ -17,11 +17,11 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 
 | Categoria | Tecnologias |
 | :--- | :--- |
-| **Frontend** | Angular, React, Bootstrap, HTML5/CSS3 |
-| **Mobile** | Flutter, Dart |
-| **Backend** | Python, SQL |
+| **Frontend** | Angular, React, Bootstrap, HTML5/CSS3, Next.js, Tailwind CSS |
+| **Mobile** | Flutter, Dart, React Native |
+| **Backend** | Python, SQL, Node.js, NestJs, Prisma ORM |
 | **Design/Prod** | Figma |
-
+| **DevOps & Ferramentas** | Docker / Docker Swarm, Git & GitHub, Gitlab |
 ---
 
 ### 📊 Estatísticas e Contatos
