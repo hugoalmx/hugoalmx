@@ -27,6 +27,9 @@ Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atua
 ### 📊 Estatísticas e Contatos
 
 <p align="left">
+  <a href="https://www.linkedin.com/in/hugo-halmeida/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
   <a href="https://instagram.com/hugoalmx">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram">
   </a>
