@@ -1,6 +1,6 @@
 # Olá, eu sou o Hugo Almeida  👋
 
-### 🎓 Estudante de Ciência da Computação | Fullstack Developer |
+### 🎓 Bacharel em Ciência da Computação | Fullstack Developer |
 
 Sou um desenvolvedor apaixonado por transformar ideias em código e ritmos. Atualmente, estou no 8º período de Ciência da Computação, focando em arquitetura de software e soluções educacionais.
 
